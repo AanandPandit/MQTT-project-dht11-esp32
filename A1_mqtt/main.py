@@ -17,9 +17,9 @@ mqtt_port = 1883
 
 # LED pins
 led_pins = {
-    'led1': 19,     # gipo pin 19
-    'led2': 18,
-    'led3': 5
+    'led1': 19,    # gpio pin 19
+    'led2': 18,    # gpio pin 18
+    'led3': 5      # gpio pin 5
 }
 
 # Initialize the DHT11 sensor
